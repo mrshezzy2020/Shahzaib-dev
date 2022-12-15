@@ -15,7 +15,7 @@ const AvatarCard = (props) => {
           <div className="avt-img">
             <img
               src={props.img}
-              alt="Image"
+              alt="Avatar"
               width="100%"
               style={{ height: "14rem" }}
             />
